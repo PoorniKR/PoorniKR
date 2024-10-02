@@ -19,8 +19,6 @@
 
 - 🌱 I’m currently learning **Machine learning and MERN Stack**
 
-- 🔭 I’m currently working on **Chat App with MERN Stack**
-
 ---
 ### 🌍 **Connect with Me**:
 
