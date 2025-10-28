@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   This is Poornima K
 </h1>
-<h3 align="center">An enthusiastic newcomer diving into the worlds of web and game development</h3>
+<h3 align="center">An enthusiastic newcomer diving into the worlds of application development</h3>
 
 <div align="center" width=100% >
   <img align="center"  width=40%  src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🎓 I'm currently pursuing my Master of Computer Applications at College of Engineering, Anna University, Guindy, Chennai.
+- 🎓 I've recently pursued my Master of Computer Applications at College of Engineering, Anna University, Guindy, Chennai.
 
 - 👀 I’m interested in Android application Development and Full stack development.
 
